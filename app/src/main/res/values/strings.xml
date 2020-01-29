@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DayNightMode</string>
+    <string name="welcome">Welcome to my Application</string>
+    <string name="nightmode">Night Mode</string>
+</resources>
